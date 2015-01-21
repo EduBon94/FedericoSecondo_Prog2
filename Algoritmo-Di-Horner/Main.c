@@ -51,5 +51,5 @@ main ()
 	{
 		Ris = A[i]*X+A[i+1];
 	}
-	printf ("Sfruttando la formula di Horner il risultato e`:\t%d", ris);
+	printf ("Sfruttando la formula di Horner il risultato e`:\t%d", Ris);
 }
